@@ -38,10 +38,10 @@ a:hover {
 	color: #eee;
 }
 
-/*.color-f {
-	background: #3892E3;
+.color-f {
+	background: #116D48;
 	color: #eee;
-}*/
+}
 
 /* SOCIAL ICONS */
 
@@ -864,3 +864,46 @@ div.testimonials .testimony .icon-muted {
 .support {
 	padding: 50px 0;
 }
+
+
+/* Class Page Style */
+
+
+.class .intro .row {
+	margin-left: 0;
+}
+
+.class .row {
+	margin-left: 60px;
+}
+
+.class .row h3 {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.class-list {
+	margin-left: 20px;
+}
+
+.class .apply {
+	background-color: #FCCD39;
+	color: #666;
+}
+
+.class .apply a {
+	text-decoration: underline;
+}
+
+.class .apply a:hover {
+	color: #53B16B;
+}
+
+.class .apply .row {
+	font-size: 24px;
+}
+
+.class .sub-title {
+	border-left: 6px solid #FA4E0B;
+}
+

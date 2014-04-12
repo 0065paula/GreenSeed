@@ -766,7 +766,16 @@ div.footer .logos img {
 }
 
 .mentor {
-	margin-top:40px;
+	margin-top:   40px;
+	margin-right: 5%;
+	width:        45%;
+	height:       160px;
+	display:      inline-block;
+	float:        left;
+}
+
+.mentor:nth-child(2n+1) {
+	margin-right: 0;
 }
 
 div.testimonials .testimony .icon-muted {
